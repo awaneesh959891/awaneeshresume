@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/awaneeshresume/static/css/main.5df220dd.css",
+    "main.js": "/awaneeshresume/static/js/main.c622669a.js",
+    "static/js/453.77891b31.chunk.js": "/awaneeshresume/static/js/453.77891b31.chunk.js",
+    "static/media/awaneesh_new.jpg": "/awaneeshresume/static/media/awaneesh_new.015f3d3a9bc1409aaba9.jpg",
+    "static/media/Awaneesh_Resume_2025_MCA.pdf": "/awaneeshresume/static/media/Awaneesh_Resume_2025_MCA.09849f681d5421c3a4c8.pdf",
+    "index.html": "/awaneeshresume/index.html",
+    "main.5df220dd.css.map": "/awaneeshresume/static/css/main.5df220dd.css.map",
+    "main.c622669a.js.map": "/awaneeshresume/static/js/main.c622669a.js.map",
+    "453.77891b31.chunk.js.map": "/awaneeshresume/static/js/453.77891b31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5df220dd.css",
+    "static/js/main.c622669a.js"
+  ]
+}
