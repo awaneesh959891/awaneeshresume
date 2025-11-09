@@ -1,0 +1,71 @@
+.avs-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-svg {
+  width: 100%;
+  height: 100%;
+  filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.6));
+}
+
+/* Size variants */
+.avs-logo.small .logo-svg {
+  width: 60px;
+  height: 60px;
+}
+
+.avs-logo.medium .logo-svg {
+  width: 120px;
+  height: 120px;
+}
+
+.avs-logo.large .logo-svg {
+  width: 200px;
+  height: 200px;
+}
+
+.avs-logo.xlarge .logo-svg {
+  width: 350px;
+  height: 350px;
+}
+
+/* SVG elements styling */
+.logo-hexagon {
+  fill: none;
+  stroke: url(#gradient);
+  stroke-width: 3;
+  filter: drop-shadow(0 0 10px rgba(102, 126, 234, 0.8));
+}
+
+.logo-circle {
+  fill: none;
+  stroke: url(#gradient);
+  stroke-width: 2;
+  opacity: 0.6;
+}
+
+.logo-text {
+  font-family: 'Inter', sans-serif;
+  font-size: 48px;
+  font-weight: 900;
+  fill: url(#textGradient);
+  text-anchor: middle;
+  letter-spacing: 2px;
+}
+
+.logo-line {
+  stroke: url(#gradient);
+  stroke-width: 2;
+  stroke-linecap: round;
+}
+
+/* Gradient definitions - added via inline SVG */
